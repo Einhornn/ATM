@@ -1,0 +1,7 @@
+10000,Nguyen Van A,666 Nguyen Van Cu/ P4 / Q.5,0999999999,Vip,9770000,Abcd123@
+10001,Ly Thi D,555 Nguyen Hue/ Ben Nghe/ Q.1 ,0999999222,Vip,223333223,Abcd123@
+10002,Tran Van C,222 Nguyen Huu Tien/Tay Thanh/ Tan Phu,0123456789,Thuong,3200000,Abcd123@
+10003,Le Van B,777 Kinh 10/ Tan Hiep/ Kien Giang,0111222333,Thuong,4000000,Abcd123@
+10004,Ngo Dinh E,111 Dien Bien Phu/P2/ Binh Thanh,0555666777,Thuong,2590000,Abcd123@
+10005,Ha Van F,333 Le Duan/ Da Kao/ Q.1,0999999222,Vip,223333223,Abcd123@
+10006,Admin,Tan Tao/ Binh Tan/ TP.HCM,0945313640,Vip,1000000000,Admin1234@
